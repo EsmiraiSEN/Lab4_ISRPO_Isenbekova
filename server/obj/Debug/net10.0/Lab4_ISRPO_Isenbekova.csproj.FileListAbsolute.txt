@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\bin\Debug\net10.0\Lab4_ISRPO_Isenbekova.exe
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\bin\Debug\net10.0\Lab4_ISRPO_Isenbekova.deps.json
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\bin\Debug\net10.0\Lab4_ISRPO_Isenbekova.runtimeconfig.json
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\bin\Debug\net10.0\Lab4_ISRPO_Isenbekova.dll
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\bin\Debug\net10.0\Lab4_ISRPO_Isenbekova.pdb
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.AssemblyInfo.cs
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.sourcelink.json
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.dll
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\refint\Lab4_ISRPO_Isenbekova.dll
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.pdb
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\Lab4_ISRPO_Isenbekova.genruntimeconfig.cache
+C:\Users\User\Documents\Lab4_ISRPO_Isenbekova\server\obj\Debug\net10.0\ref\Lab4_ISRPO_Isenbekova.dll
